@@ -45,7 +45,7 @@ class Constants:
  
         
 eg.RegisterPlugin(
-    name = "Billy audio player",
+    name = "Billy Player",
     author = "Pako (with using plugins for foobar2000 by Monstermagnet)",
     version = version,
     kind = "program",
