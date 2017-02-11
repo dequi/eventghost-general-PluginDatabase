@@ -2,7 +2,7 @@
 
 This is an attempt to create a list of [EventGhost](https://github.com/EventGhost/EventGhost) plugins that were posted to the [EventGhost forum](http://www.eventghost.org/forum).
 
->> Note: None of this code is my own work, credit goes to all dedicated people on the [EventGhost forum](http://www.eventghost.org/forum), and the authors of each plugin.
+> Note: None of the plugin code is my own work, credit goes to all dedicated people on the [EventGhost forum](http://www.eventghost.org/forum), and the authors of each plugin.
 
 ## Why ?
 
