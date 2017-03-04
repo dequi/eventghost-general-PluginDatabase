@@ -377,6 +377,9 @@
 #
 # REPOSITORY PLUGINS
 #
+/SMTPd/*
+!/SMTPd/REPOSITORY
+!/SMTPd/README.md
 /Sonos/*
 !/Sonos/REPOSITORY
 !/Sonos/README.md
