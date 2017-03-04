@@ -1,4 +1,4 @@
-version="0.0.1"
+version="0.0.2"
 # Plugins/ApplicationObserver/__init__.py
 #
 # Copyright (C)  2010 Pako  (lubos.ruckl@quick.cz)
