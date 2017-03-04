@@ -383,3 +383,6 @@
 /Sonos/*
 !/Sonos/REPOSITORY
 !/Sonos/README.md
+/TCPEvents/*
+!/TCPEvents/REPOSITORY
+!/TCPEvents/README.md
