@@ -1,5 +1,5 @@
 # Test Pattern
 
-The **Test Pattern** plugin is an [EventGhost](https://github.com/EventGhost/EventGhost) `bundled` plugin.
+The **Test Pattern** plugin is an [EventGhost](https://github.com/EventGhost/EventGhost) `BUNDLED` plugin.
 
 > Get the latest version [here](https://github.com/EventGhost/EventGhost/tree/master/plugins/TestPatterns).

@@ -1,5 +1,5 @@
 # MediaMonkey
 
-The **MediaMonkey** plugin is an [EventGhost](https://github.com/EventGhost/EventGhost) `bundled` plugin.
+The **MediaMonkey** plugin is an [EventGhost](https://github.com/EventGhost/EventGhost) `BUNDLED` plugin.
 
 > Get the latest version [here](https://github.com/EventGhost/EventGhost/tree/master/plugins/MediaMonkey).

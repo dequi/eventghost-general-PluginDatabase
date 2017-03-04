@@ -1,5 +1,5 @@
-# USB/RFID-Interface
+# USB-RFID-Interface
 
-The **USB/RFID-Interface** plugin is an [EventGhost](https://github.com/EventGhost/EventGhost) `bundled` plugin.
+The **USB-RFID-Interface** plugin is an [EventGhost](https://github.com/EventGhost/EventGhost) `BUNDLED` plugin.
 
 > Get the latest version [here](https://github.com/EventGhost/EventGhost/tree/master/plugins/USB-RFID).

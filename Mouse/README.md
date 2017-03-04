@@ -1,6 +1,6 @@
 # Mouse
 
-The **Mouse** plugin is an [EventGhost](https://github.com/EventGhost/EventGhost) `core` plugin.
+The **Mouse** plugin is an [EventGhost](https://github.com/EventGhost/EventGhost) `CORE` plugin.
 
 It provides the actions to control the mouse cursor and emulation of mouse events.
 

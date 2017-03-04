@@ -1,5 +1,5 @@
 # System Tray Menu
 
-The **System Tray Menu** plugin is an [EventGhost](https://github.com/EventGhost/EventGhost) `bundled` plugin.
+The **System Tray Menu** plugin is an [EventGhost](https://github.com/EventGhost/EventGhost) `BUNDLED` plugin.
 
 > Get the latest version [here](https://github.com/EventGhost/EventGhost/tree/master/plugins/SysTrayMenu).

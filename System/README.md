@@ -1,6 +1,6 @@
 # System
 
-The **System** plugin is an [EventGhost](https://github.com/EventGhost/EventGhost) `core` plugin.
+The **System** plugin is an [EventGhost](https://github.com/EventGhost/EventGhost) `CORE` plugin.
 
 It provides the actions to control various aspects of your system, including audio, display, power, and registry.
 

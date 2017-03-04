@@ -1,6 +1,6 @@
 # EventGhost
 
-The **EventGhost** plugin is an [EventGhost](https://github.com/EventGhost/EventGhost) `core` plugin.
+The **EventGhost** plugin is an [EventGhost](https://github.com/EventGhost/EventGhost) `CORE` plugin.
 
 It provides the actions to control events, macro flow, and the configuration tree.
 
