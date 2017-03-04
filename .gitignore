@@ -1,0 +1,382 @@
+#
+# GENERAL
+#
+.build
+#
+# CORE PLUGINS
+#
+/EventGhost/*
+!/EventGhost/CORE
+!/EventGhost/README.md
+/Mouse/*
+!/Mouse/CORE
+!/Mouse/README.md
+/System/*
+!/System/CORE
+!/System/README.md
+/Window/*
+!/Window/CORE
+!/Window/README.md
+#
+# BUNDLED PLUGINS
+#
+/ASUS PSR-2000/*
+!/ASUS PSR-2000/BUNDLED
+!/ASUS PSR-2000/README.md
+/ATI Remote Wonder II (WinUSB)/*
+!/ATI Remote Wonder II (WinUSB)/BUNDLED
+!/ATI Remote Wonder II (WinUSB)/README.md
+/Advanced IR-Transceiver/*
+!/Advanced IR-Transceiver/BUNDLED
+!/Advanced IR-Transceiver/README.md
+/Auvisio VRC-1100 Ro/*
+!/Auvisio VRC-1100 Ro/BUNDLED
+!/Auvisio VRC-1100 Ro/README.md
+/BSPlayer/*
+!/BSPlayer/BUNDLED
+!/BSPlayer/README.md
+/BT8x8-based Remote/*
+!/BT8x8-based Remote/BUNDLED
+!/BT8x8-based Remote/README.md
+/Barco CRT Projector/*
+!/Barco CRT Projector/BUNDLED
+!/Barco CRT Projector/README.md
+/Billy Player/*
+!/Billy Player/BUNDLED
+!/Billy Player/README.md
+/Broadcaster/*
+!/Broadcaster/BUNDLED
+!/Broadcaster/README.md
+/CM11A/*
+!/CM11A/BUNDLED
+!/CM11A/README.md
+/CambridgeAudio Amps Serial/*
+!/CambridgeAudio Amps Serial/BUNDLED
+!/CambridgeAudio Amps Serial/README.md
+/Conceptronic CLLRCMCE/*
+!/Conceptronic CLLRCMCE/BUNDLED
+!/Conceptronic CLLRCMCE/README.md
+/CyberLink PowerDVD/*
+!/CyberLink PowerDVD/BUNDLED
+!/CyberLink PowerDVD/README.md
+/CyberLink Universal Remote Control/*
+!/CyberLink Universal Remote Control/BUNDLED
+!/CyberLink Universal Remote Control/README.md
+/DScaler 4/*
+!/DScaler 4/BUNDLED
+!/DScaler 4/README.md
+/DVB Dream/*
+!/DVB Dream/BUNDLED
+!/DVB Dream/README.md
+/DVBViewer/*
+!/DVBViewer/BUNDLED
+!/DVBViewer/README.md
+/Denon AV Serial/*
+!/Denon AV Serial/BUNDLED
+!/Denon AV Serial/README.md
+/Desktop Remote/*
+!/Desktop Remote/BUNDLED
+!/Desktop Remote/README.md
+/Directory Watcher/*
+!/Directory Watcher/BUNDLED
+!/Directory Watcher/README.md
+/Dynamic Webserver/*
+!/Dynamic Webserver/BUNDLED
+!/Dynamic Webserver/README.md
+/E-mail/*
+!/E-mail/BUNDLED
+!/E-mail/README.md
+/ELV FS20 PCE/*
+!/ELV FS20 PCE/BUNDLED
+!/ELV FS20 PCE/README.md
+/ELV FS20 PCS/*
+!/ELV FS20 PCS/BUNDLED
+!/ELV FS20 PCS/README.md
+/EventPhone Remote/*
+!/EventPhone Remote/BUNDLED
+!/EventPhone Remote/README.md
+/FHZ 1000 PC/*
+!/FHZ 1000 PC/BUNDLED
+!/FHZ 1000 PC/README.md
+/File Operations/*
+!/File Operations/BUNDLED
+!/File Operations/README.md
+/Foobar2000/*
+!/Foobar2000/BUNDLED
+!/Foobar2000/README.md
+/GOM Player/*
+!/GOM Player/BUNDLED
+!/GOM Player/README.md
+/Generic HID/*
+!/Generic HID/BUNDLED
+!/Generic HID/README.md
+/Harman Kardon Serial Control/*
+!/Harman Kardon Serial Control/BUNDLED
+!/Harman Kardon Serial Control/README.md
+/Hauppauge IR/*
+!/Hauppauge IR/BUNDLED
+!/Hauppauge IR/README.md
+/Home Electronics Tira/*
+!/Home Electronics Tira/BUNDLED
+!/Home Electronics Tira/README.md
+/Homeseer/*
+!/Homeseer/BUNDLED
+!/Homeseer/README.md
+/IgorPlug-UDP/*
+!/IgorPlug-UDP/BUNDLED
+!/IgorPlug-UDP/README.md
+/IgorPlug-USB/*
+!/IgorPlug-USB/BUNDLED
+!/IgorPlug-USB/README.md
+/Impress/*
+!/Impress/BUNDLED
+!/Impress/README.md
+/IrfanView/*
+!/IrfanView/BUNDLED
+!/IrfanView/README.md
+/JVC DILA Projector/*
+!/JVC DILA Projector/BUNDLED
+!/JVC DILA Projector/README.md
+/JVC HD-1 Projector/*
+!/JVC HD-1 Projector/BUNDLED
+!/JVC HD-1 Projector/README.md
+/Joystick/*
+!/Joystick/BUNDLED
+!/Joystick/README.md
+/Keene IR Anywhere/*
+!/Keene IR Anywhere/BUNDLED
+!/Keene IR Anywhere/README.md
+/Keyboard/*
+!/Keyboard/BUNDLED
+!/Keyboard/README.md
+/LIRC Client/*
+!/LIRC Client/BUNDLED
+!/LIRC Client/README.md
+/Logitech UltraX Media Remote/*
+!/Logitech UltraX Media Remote/BUNDLED
+!/Logitech UltraX Media Remote/README.md
+/MCE/*
+!/MCE/BUNDLED
+!/MCE/README.md
+/Marantz AV Receiver/*
+!/Marantz AV Receiver/BUNDLED
+!/Marantz AV Receiver/README.md
+/Media Player Classic/*
+!/Media Player Classic/BUNDLED
+!/Media Player Classic/README.md
+/MediaMonkey/*
+!/MediaMonkey/BUNDLED
+!/MediaMonkey/README.md
+/MediaPortal/*
+!/MediaPortal/BUNDLED
+!/MediaPortal/README.md
+/Meedio/*
+!/Meedio/BUNDLED
+!/Meedio/README.md
+/Microsoft MCE Remote/*
+!/Microsoft MCE Remote/BUNDLED
+!/Microsoft MCE Remote/README.md
+/Microsoft MCE Remote (Vista+)/*
+!/Microsoft MCE Remote (Vista+)/BUNDLED
+!/Microsoft MCE Remote (Vista+)/README.md
+/Multitap/*
+!/Multitap/BUNDLED
+!/Multitap/README.md
+/MyTheatre/*
+!/MyTheatre/BUNDLED
+!/MyTheatre/README.md
+/Network Event Receiver/*
+!/Network Event Receiver/BUNDLED
+!/Network Event Receiver/README.md
+/Network Event Sender/*
+!/Network Event Sender/BUNDLED
+!/Network Event Sender/README.md
+/On Screen Explorer/*
+!/On Screen Explorer/BUNDLED
+!/On Screen Explorer/README.md
+/On Screen Menu/*
+!/On Screen Menu/BUNDLED
+!/On Screen Menu/README.md
+/Onkyo AV Serial/*
+!/Onkyo AV Serial/BUNDLED
+!/Onkyo AV Serial/README.md
+/Onkyo ISCP/*
+!/Onkyo ISCP/BUNDLED
+!/Onkyo ISCP/README.md
+/Optoma H79 Serial/*
+!/Optoma H79 Serial/BUNDLED
+!/Optoma H79 Serial/README.md
+/PC Remote Controller/*
+!/PC Remote Controller/BUNDLED
+!/PC Remote Controller/README.md
+/PHX01RN/*
+!/PHX01RN/BUNDLED
+!/PHX01RN/README.md
+/Phoner/*
+!/Phoner/BUNDLED
+!/Phoner/README.md
+/Ping/*
+!/Ping/BUNDLED
+!/Ping/README.md
+/PlayStation 3 Bluetooth Remote/*
+!/PlayStation 3 Bluetooth Remote/BUNDLED
+!/PlayStation 3 Bluetooth Remote/README.md
+/Process Watcher/*
+!/Process Watcher/BUNDLED
+!/Process Watcher/README.md
+/RFXcom_xPL/*
+!/RFXcom_xPL/BUNDLED
+!/RFXcom_xPL/README.md
+/RadioSure/*
+!/RadioSure/BUNDLED
+!/RadioSure/README.md
+/Raw Input/*
+!/Raw Input/BUNDLED
+!/Raw Input/README.md
+/Remote Event Mapper/*
+!/Remote Event Mapper/BUNDLED
+!/Remote Event Mapper/README.md
+/SageTV/*
+!/SageTV/BUNDLED
+!/SageTV/README.md
+/Samsung TV/*
+!/Samsung TV/BUNDLED
+!/Samsung TV/README.md
+/Sceneo TVcentral/*
+!/Sceneo TVcentral/BUNDLED
+!/Sceneo TVcentral/README.md
+/SchedulGhost/*
+!/SchedulGhost/BUNDLED
+!/SchedulGhost/README.md
+/Scheduler/*
+!/Scheduler/BUNDLED
+!/Scheduler/README.md
+/Screamer Radio/*
+!/Screamer Radio/BUNDLED
+!/Screamer Radio/README.md
+/Serial Port/*
+!/Serial Port/BUNDLED
+!/Serial Port/README.md
+/Sidewinder Game Voice/*
+!/Sidewinder Game Voice/BUNDLED
+!/Sidewinder Game Voice/README.md
+/Small PC-Remote/*
+!/Small PC-Remote/BUNDLED
+!/Small PC-Remote/README.md
+/Sound Mixer Ex/*
+!/Sound Mixer Ex/BUNDLED
+!/Sound Mixer Ex/README.md
+/Speech/*
+!/Speech/BUNDLED
+!/Speech/README.md
+/Speed-Link SL-6399 Media Remote/*
+!/Speed-Link SL-6399 Media Remote/BUNDLED
+!/Speed-Link SL-6399 Media Remote/README.md
+/Splash Lite/*
+!/Splash Lite/BUNDLED
+!/Splash Lite/README.md
+/Streamzap PC Remote/*
+!/Streamzap PC Remote/BUNDLED
+!/Streamzap PC Remote/README.md
+/SunTracker/*
+!/SunTracker/BUNDLED
+!/SunTracker/README.md
+/System Tray Menu/*
+!/System Tray Menu/BUNDLED
+!/System Tray Menu/README.md
+/Task Monitor/*
+!/Task Monitor/BUNDLED
+!/Task Monitor/README.md
+/TechniSat USB IR Receiver/*
+!/TechniSat USB IR Receiver/BUNDLED
+!/TechniSat USB IR Receiver/README.md
+/TechnoTrend IR Devices (BDA)/*
+!/TechnoTrend IR Devices (BDA)/BUNDLED
+!/TechnoTrend IR Devices (BDA)/README.md
+/TechnoTrend USB IR Receiver/*
+!/TechnoTrend USB IR Receiver/BUNDLED
+!/TechnoTrend USB IR Receiver/README.md
+/TellStick/*
+!/TellStick/BUNDLED
+!/TellStick/README.md
+/Terratec USB Receiver/*
+!/Terratec USB Receiver/BUNDLED
+!/Terratec USB Receiver/README.md
+/Test/*
+!/Test/BUNDLED
+!/Test/README.md
+/Test Pattern/*
+!/Test Pattern/BUNDLED
+!/Test Pattern/README.md
+/TheaterTek/*
+!/TheaterTek/BUNDLED
+!/TheaterTek/README.md
+/Timer/*
+!/Timer/BUNDLED
+!/Timer/README.md
+/UIR - Irman/*
+!/UIR - Irman/BUNDLED
+!/UIR - Irman/README.md
+/UIRT2/*
+!/UIRT2/BUNDLED
+!/UIRT2/README.md
+/USB-RFID-Interface/*
+!/USB-RFID-Interface/BUNDLED
+!/USB-RFID-Interface/README.md
+/USB-UIRT/*
+!/USB-UIRT/BUNDLED
+!/USB-UIRT/README.md
+/VLC media player/*
+!/VLC media player/BUNDLED
+!/VLC media player/README.md
+/Weather/*
+!/Weather/BUNDLED
+!/Weather/README.md
+/Webserver/*
+!/Webserver/BUNDLED
+!/Webserver/README.md
+/WinUSB Test/*
+!/WinUSB Test/BUNDLED
+!/WinUSB Test/README.md
+/Winamp/*
+!/Winamp/BUNDLED
+!/Winamp/README.md
+/Windows Media Player/*
+!/Windows Media Player/BUNDLED
+!/Windows Media Player/README.md
+/X10 Remote/*
+!/X10 Remote/BUNDLED
+!/X10 Remote/README.md
+/XBMC Event Receiver/*
+!/XBMC Event Receiver/BUNDLED
+!/XBMC Event Receiver/README.md
+/XBMC2/*
+!/XBMC2/BUNDLED
+!/XBMC2/README.md
+/Xbox Remote Control/*
+!/Xbox Remote Control/BUNDLED
+!/Xbox Remote Control/README.md
+/YARD/*
+!/YARD/BUNDLED
+!/YARD/README.md
+/Yamaha RX-V1000 Serial/*
+!/Yamaha RX-V1000 Serial/BUNDLED
+!/Yamaha RX-V1000 Serial/README.md
+/Zoom Player/*
+!/Zoom Player/BUNDLED
+!/Zoom Player/README.md
+/d-box2 Remote Emulator/*
+!/d-box2 Remote Emulator/BUNDLED
+!/d-box2 Remote Emulator/README.md
+/ffdshow/*
+!/ffdshow/BUNDLED
+!/ffdshow/README.md
+/xPL/*
+!/xPL/BUNDLED
+!/xPL/README.md
+#
+# REPOSITORY PLUGINS
+#
+/Sonos/*
+!/Sonos/REPOSITORY
+!/Sonos/README.md
